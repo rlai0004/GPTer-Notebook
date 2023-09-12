@@ -1,3 +1,6 @@
 [submodule "DSP"]
 	path = DSP
 	url = https://github.com/rlai0004/DataScienceProblems.git
+[submodule "vscode-GPTer-Notebook"]
+	path = vscode-GPTer-Notebook
+	url = https://github.com/rlai0004/vscode-GPTer-Notebook
